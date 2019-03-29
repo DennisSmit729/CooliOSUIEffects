@@ -16,3 +16,7 @@ You can learn about all the proper techniques to build out an Audio Player appli
 * Parsing JSON asynchronously
 * Learn to use XML parsing Pods through Cocoapods integration
 * User Favorites persistence with UserDefaults
+
+## License
+The MIT License (MIT)
+Copyright © 2019 mobilloper
