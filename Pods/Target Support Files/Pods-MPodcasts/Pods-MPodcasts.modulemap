@@ -1,0 +1,6 @@
+framework module Pods_MPodcasts {
+  umbrella header "Pods-MPodcasts-umbrella.h"
+
+  export *
+  module * { export * }
+}
