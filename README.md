@@ -1,4 +1,4 @@
-# Podcasts
+# MPodcasts
 # Core Features
 * Alamofire Integration to greatly simplify network requests architecture
 * AVKit Audio Player libraries for audio playback
